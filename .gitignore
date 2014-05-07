@@ -2,3 +2,17 @@ node_modules
 *.swp
 *.swo
 .dist
+
+############################
+# tmp, editor & OS files
+############################
+.tmp
+*.swo
+*.swp
+*.swn
+*.swm
+.DS_STORE
+*#
+*~
+.idea
+nbproject
