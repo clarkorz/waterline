@@ -22,7 +22,7 @@
     "async": "~0.7.0",
     "anchor": "~0.10.0",
     "q": "~1.0.1",
-    "waterline-schema": "git://github.com/clarkorz/waterline-schema.git",
+    "waterline-schema": "clarkorz/waterline-schema",
     "node-switchback": "~0.0.4",
     "waterline-criteria": "~0.10.6",
     "prompt": "~0.2.12",
