@@ -20,7 +20,7 @@
   "dependencies": {
     "lodash": "~2.4.1",
     "async": "~0.7.0",
-    "anchor": "~0.10.0",
+    "anchor": "clark/anchor",
     "q": "~1.0.1",
     "waterline-schema": "clarkorz/waterline-schema",
     "node-switchback": "~0.0.4",
