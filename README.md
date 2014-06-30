@@ -1,6 +1,4 @@
-![image_squidhome@2x.png](http://i.imgur.com/7rMxw.png)
-
-# Waterline
+# [<img title="waterline-logo" src="http://i.imgur.com/3Xqh6Mz.png" width="810px" alt="Waterline logo"/>](https://github.com/balderdashy/waterline)
 
 [![Build Status](https://travis-ci.org/balderdashy/waterline.png?branch=master)](https://travis-ci.org/balderdashy/waterline) [![NPM version](https://badge.fury.io/js/waterline.png)](http://badge.fury.io/js/waterline) [![Dependency Status](https://gemnasium.com/balderdashy/waterline.png)](https://gemnasium.com/balderdashy/waterline)
 
@@ -75,6 +73,7 @@ You may also supply an array of adapters and Waterline will map out the methods 
   - [IRC](https://github.com/balderdashy/sails-irc)
   - [Twitter](https://github.com/balderdashy/sails-twitter)
   - [JSDom](https://github.com/mikermcneil/sails-jsdom)
+  - [Neo4j](https://github.com/natgeo/sails-neo4j)
 
 ## Collection
 
